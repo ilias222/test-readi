@@ -40,8 +40,8 @@ P.S. Он не подписан, так что требуется выслуща
 </p>
 <div>
 <p>
-```javascript
 
+```javascript
 export function APIAhuckTranslate(api){
     if(api){
         let arrText = api.split(' ');
@@ -51,10 +51,9 @@ export function APIAhuckTranslate(api){
                 arrText[index] = dbEnRu[item];
             }
         });
-
         return arrText.join(' ');
-    }
-```
+    }```
+
 </p>
 <div>
 </div>
