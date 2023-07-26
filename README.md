@@ -52,7 +52,8 @@ export function APIAhuckTranslate(api){
             }
         });
         return arrText.join(' ');
-    }```
+    }
+    ```
 
 </p>
 <div>
