@@ -26,7 +26,8 @@ API - Google переводчика (url: https://rapidapi.com)
 </ul>
 </p>
 </div>
-
+<br>
+<br>
 
 <hr>
 <p>
