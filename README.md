@@ -40,7 +40,7 @@ P.S. Он не подписан, так что требуется выслуща
 </p>
 <div>
 <p>
-``javascript
+```javascript
 
 export function APIAhuckTranslate(api){
     if(api){
@@ -54,7 +54,7 @@ export function APIAhuckTranslate(api){
 
         return arrText.join(' ');
     }
-``
+```
 </p>
 <div>
 </div>
