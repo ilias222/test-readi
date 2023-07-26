@@ -23,6 +23,9 @@ API - Google переводчика (url: https://rapidapi.com)
 </ul>
 </p>
 </div>
+
+
+<hr>
 <p>
 Для работы с API Google переводчика - нужен API key.
 <br>
@@ -32,7 +35,9 @@ API - Google переводчика (url: https://rapidapi.com)
 Имеется рабочий APK файл.
 P.S. Он не подписан, так что требуется выслущать гневные предупреждения Android.
 </p>
+<hr>
 </section>
+
 
 <section>
 <div>
