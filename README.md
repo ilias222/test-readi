@@ -42,9 +42,9 @@ Cейчас я начал создание своего, мини перевод
 <p>
 
 ```javascript
-export function APIAhuckTranslate(api){
+export function APIAhuckTranslate(api){         //Получаем строку текста
     if(api){
-        let arrText = api.split(' ');
+        let arrText = api.split(' ');           //Разбиваем ее на массив и ищем в таблице переводов
 
         arrText.forEach((item, index) => {
             if(dbEnRu[item]){
