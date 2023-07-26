@@ -116,6 +116,7 @@ export function APIAhuckTranslate(api){         //Получаем строку 
 **Для запуска скрина экрана дивайса**, использовался: scrcpy
 
 Скачать можно сдесь: https://github.com/Genymobile/scrcpy/releases
+
 Перед запуском, проверить наличие java пакета: https://www.java.com/ru/
 
 <hr>
