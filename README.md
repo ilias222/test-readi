@@ -75,9 +75,41 @@ export function APIAhuckTranslate(api){         //Получаем строку 
 
 <section>
 <h2>
+
+
 Запуск
+
 </h2>
 <hr>
 
+<ul>
+<li>
 
+**Скачиваем репозиторий:** git@github.com:ilias222/test-readi.git
+
+</li>
+<li>
+
+**Устанавливаем node mudule:** ``npm install``
+
+</li>
+<li>
+
+**Запускаем для андройд:** ``nx expo start``
+
+</li>
+</ul>
+
+<hr>
+
+**Для запуска на смартфоне** (проверенно на системе Android) устанавливаем на дивайсе
+**Expo Go**
+
+Запустить можно через package.json
+
+**Для запуска скрина экрана дивайса**, использовался: scrcpy
+Скачать можно сдесь: https://github.com/Genymobile/scrcpy/releases
+Перед запуском, проверить наличие java пакета: https://www.java.com/ru/
+
+<hr>
 </section>
